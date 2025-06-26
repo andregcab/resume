@@ -61,7 +61,7 @@ A soundboard for when you're bored, and also intended to be used as a scaffoldin
 
 ### [Do u like me?](https://doulikeme.online)  
 **React, TypeScript, Next.js, SendGrid, Vercel**  
-A playful digital note-passing tool inspired by childhood experiences.
+A playful digital note-passing tool. 
 
 ## Certifications
 
