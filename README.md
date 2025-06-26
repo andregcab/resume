@@ -59,7 +59,7 @@ Agile Methodologies • HTML • CSS • Design Systems • Express.js • Ruby 
 **React, TypeScript, MongoDB, Express.js, AWS, CursorAI**  
 A soundboard for when you're bored, and also intended to be used as a scaffolding project to adopt new technologies.
 
-### [Do-u-like-me?](https://doulikeme.online)  
+### [Do u like me?](https://doulikeme.online)  
 **React, TypeScript, Next.js, SendGrid, Vercel**  
 A playful digital note-passing tool inspired by childhood experiences.
 
