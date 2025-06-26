@@ -1,6 +1,6 @@
 # Andre Cabrera
 
-**Frontend Developer**  
+**Software Engineer**  
 cabrerandre@gmail.com · (305) 401-1863  
 [andrecabrera.dev](https://www.andrecabrera.dev) • [linkedin.com/in/andregcabrera](https://linkedin.com/in/andregcabrera) • [github.com/andregcab](https://github.com/andregcab)
 
