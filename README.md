@@ -1,16 +1,12 @@
 # Andre Cabrera
 
 **Frontend Developer**  
-📧 cabrerandre@gmail.com · 📞 (305) 401-1863  
-🌐 [andrecabrera.dev](https://www.andrecabrera.dev) • [linkedin.com/in/andregcabrera](https://linkedin.com/in/andregcabrera) • [github.com/andregcab](https://github.com/andregcab)
-
----
+cabrerandre@gmail.com · (305) 401-1863  
+[andrecabrera.dev](https://www.andrecabrera.dev) • [linkedin.com/in/andregcabrera](https://linkedin.com/in/andregcabrera) • [github.com/andregcab](https://github.com/andregcab)
 
 ## Summary
 
 Creative and performance-driven developer with 5+ years of experience building enterprise-grade, highly performant frontends using React, GraphQL, and modern JavaScript/TypeScript. Proven ability to drive product velocity, mentor peers, and contribute to architectural decisions in high-scale content. Passionate about user experience, design systems, and shipping elegant interfaces that scale.
-
----
 
 ## Experience
 
@@ -42,8 +38,6 @@ _January 2020 – January 2022_
 - Spearheaded end-to-end features touching both UI and backend logic, gaining broad stack experience and deep product understanding
 - Created data visualization dashboards that increased business intelligence accessibility for 150+ non-technical staff
 
----
-
 ## Education
 
 **Full Stack Web Development Bootcamp**  
@@ -54,14 +48,10 @@ _August 2019 – October 2019_
 *Florida International University · Miami, FL*  
 _March 2008 – May 2012_
 
----
-
 ## Technical Skills
 
 JavaScript • TypeScript • React • Node.js • AWS • Docker • GraphQL • MongoDB • PostgreSQL • CI/CD  
 Agile Methodologies • HTML • CSS • Design Systems • Express.js • Ruby on Rails • Git • Figma
-
----
 
 ## Projects
 
@@ -72,8 +62,6 @@ A soundboard for when you're bored, and also intended to be used as a scaffoldin
 ### [Do-u-like-me?](https://doulikeme.online)  
 **React, TypeScript, Next.js, SendGrid, Vercel**  
 A playful digital note-passing tool inspired by childhood experiences.
-
----
 
 ## Certifications
 
