@@ -6,7 +6,7 @@ cabrerandre@gmail.com · (305) 401-1863
 
 ## Summary
 
-Creative and performance-driven developer with 5+ years of experience building enterprise-grade, highly performant frontends using React, GraphQL, and modern JavaScript/TypeScript. Proven ability to drive product velocity, mentor peers, and contribute to architectural decisions in high-scale content. Passionate about user experience, design systems, and shipping elegant interfaces that scale.
+Versatile and impact-focused software engineer with over 5 years of experience crafting scalable, high-performance frontends for enterprise applications. Adept at building modern React and TypeScript ecosystems, shaping robust GraphQL APIs, and elevating developer workflows through architecture, mentorship, and clean code practices. Known for blending technical precision with a strong eye for usability, accessibility, and design systems, delivering polished interfaces that perform under pressure and scale with product growth.
 
 ## Experience
 
