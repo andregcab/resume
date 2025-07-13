@@ -10,8 +10,9 @@ Versatile and impact-driven software engineer with over 5 years of experience cr
 
 ## Experience
 
-### Software Engineer II (Mid-Level)  
-**Condé Nast** · *Remote*  
+### Software Engineer II (Mid-Level)
+
+**Condé Nast** · _Remote_  
 _March 2023 – Present_
 
 - Led a multi-team UI codebase refactor, introducing scalable architecture patterns and increasing developer velocity by 35%
@@ -21,8 +22,9 @@ _March 2023 – Present_
 - Participated in on-call rotations and led post-incident reviews with actionable remediation strategies
 - Collaborated cross-functionally with design and product teams to iterate on UX patterns and design systems
 
-### Software Engineer I  
-**Condé Nast** · *Remote*  
+### Software Engineer I
+
+**Condé Nast** · _Remote_  
 _January 2022 – March 2023_
 
 - Developed a React-based CMS to manage global content workflows, reducing editorial publishing time by 50%
@@ -30,8 +32,9 @@ _January 2022 – March 2023_
 - Contributed to GraphQL schema design and state architecture for scalable frontend development
 - Created and maintained documentation to improve knowledge sharing across teams
 
-### Full Stack Software Developer  
-**Kaufman Rossin** · *Miami, FL*  
+### Full Stack Software Developer
+
+**Kaufman Rossin** · _Miami, FL_  
 _January 2020 – January 2022_
 
 - Built and maintained internal productivity tools using React and Rails, serving multiple cross-functional teams
@@ -42,27 +45,29 @@ _January 2020 – January 2022_
 ## Education
 
 **Full Stack Web Development Bootcamp**  
-*Ironhack · Miami, FL*  
+_Ironhack · Miami, FL_  
 _2019_
 
 **Bachelor of Business Administration**  
-*Florida International University · Miami, FL*  
+_Florida International University · Miami, FL_  
 _2008 – 2012_
 
 ## Technical Skills
 
 **Languages & Frameworks:** JavaScript, TypeScript, React, Node.js, GraphQL, Express.js, Ruby on Rails  
-**Tools & DevOps:** AWS, Docker, CI/CD, Git  
+**Tools & DevOps:** AWS, Docker, CI/CD, Git, Jest, Enzyme, RTL, Figma  
 **Databases:** MongoDB, PostgreSQL  
-**Other:** HTML, CSS, Figma, Agile Methodologies, Design Systems
+**Other:** HTML5, CSS, Figma, Agile Methodologies, Design Systems
 
 ## Projects
 
-### [Soundbored](https://soundbored.com)  
+### [Soundbored](https://soundbored.com)
+
 **React, TypeScript, MongoDB, Express.js, AWS, CursorAI**  
 Designed and built a modular soundboard app leveraging modern web technologies, used as a live scaffold for testing new tools like CursorAI and AWS service integrations.
 
-### [Do u like me?](https://doulikeme.online)  
+### [Do u like me?](https://doulikeme.online)
+
 **React, TypeScript, Next.js, SendGrid, Vercel**  
 Developed a nostalgic, interactive note-passing tool inspired by childhood memories, with real-time messaging and serverless email delivery.
 
